@@ -26,17 +26,17 @@ const Contact = () => {
 						</div>
 							<div className="flex items-center justify-between py-4">
 							<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300'>
-								<a href='https://www.linkedin.com/in/caseyoneil10/' target='_blank'>
+								<a href='https://www.linkedin.com/in/caseyoneil10/' >
 								<FaLinkedinIn/>
 								</a>
 							</div>
 							<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300'>
-							<a href='https://github.com/caseyoneil10' target='_blank'>
+							<a href='https://github.com/caseyoneil10' >
 								<FaGithub/>
 								</a>
 							</div>
 							<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300'>
-							<a href='https://docs.google.com/document/d/1wjMyvwiGhIaUhHXTxRWyameZikA-HiWLRDHDEVUQM7Q/edit?usp=sharing' target='_blank'>
+							<a href='https://docs.google.com/document/d/1wjMyvwiGhIaUhHXTxRWyameZikA-HiWLRDHDEVUQM7Q/edit?usp=sharing' >
 								<BsFillPersonLinesFill/>
 							</a>
 							</div>
