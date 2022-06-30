@@ -83,14 +83,14 @@ const Navbar = () => {
 					<div>
 						<div className="flex w-full items-center justify-between">
 						<Link href='/'>
-							<h3>Casey O'Neil | Software Developer</h3>
+							<h3>Casey O&apos;Neil | Software Developer</h3>
 						</Link>
 						<div  onClick={handleNav} className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer">
 							<AiOutlineClose/>
 						</div>
 					</div>
 					<div className='border-b border-gray-300 my-4'>
-						<p className= 'w-[85%] md-[90%] py-4'>Let's Build Something together</p>
+						<p className= 'w-[85%] md-[90%] py-4'>Let&apos;s Build Something together</p>
 					</div>
 				</div>
 				<div className="py-4 flex flex-col">
@@ -115,7 +115,7 @@ const Navbar = () => {
 					</Link>
 					</ul>
 					<div className='pt-40'>
-							<p className="uppercase tracking-widest text-[#50654d]">Let's Connect</p>
+							<p className="uppercase tracking-widest text-[#50654d]">Let&apos;s Connect</p>
 							<div className="flex items-center justify-between my-4 w-full sm:w-[80%]">
 								<div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
 								<FaLinkedinIn/>

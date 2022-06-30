@@ -22,7 +22,7 @@ const Contact = () => {
 						</div>
 						<div>
 							<h2 className="py-2 text-gray-700">Casey O&apos;Neil</h2>
-							<p className="py-4 text-gray-700">I am looking for my next passion project. Contact me and let's chat!</p>
+							<p className="py-4 text-gray-700">I am looking for my next passion project. Contact me and let&apos;s chat!</p>
 						</div>
 							<div className="flex items-center justify-between py-4">
 							<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300'>
