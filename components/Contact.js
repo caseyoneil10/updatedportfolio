@@ -1,3 +1,4 @@
+//contact
 import React from 'react'
 import Image from 'next/image'
 import {FaLinkedinIn, FaGithub} from 'react-icons/fa'
