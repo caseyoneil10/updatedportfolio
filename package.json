@@ -1,5 +1,5 @@
 {
-  "name": "portoflio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -13,7 +13,6 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-icons": "^4.4.0",
-    "react-scripts": "5.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.7",
