@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import Navbar from '../components/Navbar'
+import Navbar from '../components/NavBar'
 import About from '../components/About'
 import Main from '../components/Main'
 import Skills from '../components/Skills'
