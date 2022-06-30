@@ -11,7 +11,7 @@ const Main = () => {
 						<br/>
 						<br/>
 						<br/>
-							<h1 className="py-4 text-gray-700"><span className="text-[#c13f3f]"> Casey O'Neil</span></h1>
+							<h1 className="py-4 text-gray-700"><span className="text-[#c13f3f]"> Casey O&apos;Neil</span></h1>
 							<h1 className="py-4 text-gray-700">
 							Software Developer</h1>
 							<p className='py-4 text-gray-600 max-w-[70%] m-auto'>

@@ -21,7 +21,7 @@ const Contact = () => {
 							<img className="rounded-xl hover:scale-105 ease-in duration-300" src='https://i.imgur.com/K5Nws7i.jpg' alt="/"/>
 						</div>
 						<div>
-							<h2 className="py-2 text-gray-700">Casey O'Neil</h2>
+							<h2 className="py-2 text-gray-700">Casey O&apos;Neil</h2>
 							<p className="py-4 text-gray-700">I am looking for my next passion project. Contact me and let's chat!</p>
 						</div>
 							<div className="flex items-center justify-between py-4">
