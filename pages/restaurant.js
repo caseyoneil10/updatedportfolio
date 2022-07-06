@@ -27,10 +27,10 @@ const restaurant = () => {
 					Google Maps API is implimented for easy location of restaurants all over the world.
 
 					Search functionality lets you easily see the best places to eat where ever you are in the world! Check it out! </p>
-						<a href="https://nameless-ravine-35424.herokuapp.com/" target="_blank">
+						<a href="https://nameless-ravine-35424.herokuapp.com/" rel="noreferrer">
 							<button className='px-8 py-2 mt-4 mr-8'>Demo</button>
 						</a>
-						<a href="https://github.com/caseyoneil10/Top-Restaurants-Front-End" target="_blank">
+						<a href="https://github.com/caseyoneil10/Top-Restaurants-Front-End" rel="noreferrer">
 							<button className='px-8 py-2 mt-4'>Code</button>
 						</a>
 							</div>
@@ -42,7 +42,7 @@ const restaurant = () => {
 								<p className="text-gray-600 py-2 flex items-center"><RiRadioButtonFill className="pr-1"/>JavaScript</p>
 								<p className="text-gray-600 py-2 flex items-center"><RiRadioButtonFill className="pr-1"/>Mongoose</p>
 								<p className="text-gray-600 py-2 flex items-center"><RiRadioButtonFill className="pr-1"/>MongoDB</p>
-						
+
 							</div>
 							</div>
 							</div>

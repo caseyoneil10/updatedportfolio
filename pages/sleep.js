@@ -25,10 +25,10 @@ const sleep = () => {
 					Keep Track of your sleep to see if you are where you need to be!
 
 					Users can log in to track sleep. They can delete and edit their records and also are given statistics with how they are comparing to people their age. Check it out!</p>
-					<a href="https://protected-hamlet-59115.herokuapp.com/" target="_blank">
+					<a href="https://protected-hamlet-59115.herokuapp.com/" rel="noreferrer">
 							<button className='px-8 py-2 mt-4 mr-8'>Demo</button>
 					</a>
-					<a href="https://github.com/caseyoneil10/sleep_front_end" target="_blank">
+					<a href="https://github.com/caseyoneil10/sleep_front_end" rel="noreferrer">
 							<button className='px-8 py-2 mt-4'>Code</button>
 					</a>
 							</div>
