@@ -68,9 +68,6 @@ const Navbar = () => {
 						<a href='https://docs.google.com/document/d/1wjMyvwiGhIaUhHXTxRWyameZikA-HiWLRDHDEVUQM7Q/edit?usp=sharing'>
 							<li className='ml-10 text-sm uppercase hover:border-b'>Resume</li>
 						</a>
-						<Link href='/#contact'>
-							<li className='ml-10 text-sm uppercase hover:border-b'>Contact</li>
-						</Link>
 					</ul>
 					<div onClick={handleNav} className='md:hidden'>
 					<AiOutlineMenu style={{color:`${linkColor}`}} size={25} />
@@ -90,7 +87,6 @@ const Navbar = () => {
 						</div>
 					</div>
 					<div className='border-b border-gray-300 my-4'>
-						<p className= 'w-[85%] md-[90%] py-4'>Let&apos;s Build Something together</p>
 					</div>
 				</div>
 				<div className="py-4 flex flex-col">
@@ -110,9 +106,6 @@ const Navbar = () => {
 					<a href='https://docs.google.com/document/d/1wjMyvwiGhIaUhHXTxRWyameZikA-HiWLRDHDEVUQM7Q/edit?usp=sharing' >
 						<li onClick={() => { setNav(false)}} className='py-4 text-sm'>Resume</li>
 					</a>
-					<Link href='/#contact'>
-						<li onClick={() => { setNav(false)}} className='py-4 text-sm'>Contact</li>
-					</Link>
 					</ul>
 					<div className='pt-40'>
 							<p className="uppercase tracking-widest text-[#50654d]">Let&apos;s Connect</p>
