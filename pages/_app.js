@@ -1,3 +1,5 @@
+// NPM RUN DEV
+
 import '../styles/globals.css'
 import Navbar from '../components/NavBar'
 
