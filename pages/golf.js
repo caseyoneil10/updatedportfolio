@@ -26,11 +26,11 @@ const golf = () => {
 						Users can store their rounds in the database for future reference!
 
 						On each hole of the course users will be able to view statistics based on their past performance of each round. Please take a look! </p>
-							<a href="https://evening-spire-15204.herokuapp.com/" rel="noreferrer">
-							<button className='px-8 py-2 mt-4 mr-8'>Demo</button>
+							<a href="https://evening-spire-15204.herokuapp.com/" target='_blank' rel="noopener noreferrer">
+								<button className='px-8 py-2 mt-4 mr-8'>Demo</button>
 							</a>
-							<a href="https://github.com/caseyoneil10/golf_app_front_end" rel="noreferrer">
-							<button className='px-8 py-2 mt-4'>Code</button>
+							<a href="https://github.com/caseyoneil10/golf_app_front_end" target='_blank' rel="noopener noreferrer">
+								<button className='px-8 py-2 mt-4'>Code</button>
 							</a>
 							</div>
 							<div className='col-span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl p-4'>

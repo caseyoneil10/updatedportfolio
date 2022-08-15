@@ -13,10 +13,10 @@ const Projects = () => {
 				<div className='max-w-[1240px] mx-auto px-2 py-16'>
 					<h2 className="py-4">Projects</h2>
 					<div className='grid md:grid-cols-2 gap-8'>
-					<ProjectItem title="Golf App" backgroundImg={golfAppImg} projectUrl="/golf" tech={"React JS, JavaScript, Redux, Pyton, PostreSQL"}/>
+					<ProjectItem title="Golf App" backgroundImg={golfAppImg}  projectUrl="/golf" tech={"React JS, JavaScript, Redux, Pyton, PostreSQL"}/>
 					<ProjectItem title="Top Restaurants in The World" backgroundImg={restaurantImg} projectUrl="/restaurant" tech={"React JS, JavaScript, Mongoose, MongoDB, JavaScript"}/>
 					<ProjectItem title="My Movie/TV Show Catalog" backgroundImg={movieImg} projectUrl="/movie" tech={"Express, MongoDB, Mongoose, Bcrypt, Skeleton/Normalize"}/>
-					<ProjectItem title="Sleep Tracker" backgroundImg={sleepImg} projectUrl="/sleep" tech={"React JS, Pyton, PostreSQL, Bcrypt"}/>
+					<ProjectItem title="Sleep Tracker" backgroundImg={sleepImg} projectUrl="/sleep" tech={"React JS, Pyton, PostreSQL, Bcrypt" }/>
 					</div>
 				</div>
 
