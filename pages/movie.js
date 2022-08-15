@@ -26,10 +26,10 @@ const movie = () => {
 
 				Full user authentication with Bcrypt users can easily log in and store all of their favorite films or shows.
 </p>
-							<a href="https://peaceful-ravine-23440.herokuapp.com/users/new" rel="noreferrer">
+							<a href="https://peaceful-ravine-23440.herokuapp.com/users/new" target='_blank' rel="noreferrer">
 							<button className='px-8 py-2 mt-4 mr-8'>Demo</button>
 							</a>
-							<a href="https://github.com/caseyoneil10/belcherproject2" rel="noreferrer">
+							<a href="https://github.com/caseyoneil10/belcherproject2" target='_blank' rel="noreferrer">
 							<button className='px-8 py-2 mt-4'>Code</button>
 							</a>
 							</div>
