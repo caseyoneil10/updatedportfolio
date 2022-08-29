@@ -21,18 +21,18 @@ const Main = () => {
 								I thrive when navigating stressful, high stakes environments where my organization skills, and ability to bring levity to situations ensures that the energy of the team is not affected, and we achieve the optimum result together. I am looking forward to working in an environment where I can not only achieve my highest potential and contribute to solving problems, but also help others in solving problems, while elevating my team members to achieve their fullest potential.
 							</p>
 					<div className='flex items-center justify-between max-w-[330px] m-auto py-4]'>
-						<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300'>
-							<a href="https://www.linkedin.com/in/caseyoneil10/" >
+						<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-125 ease-in duration-300'>
+							<a href="https://www.linkedin.com/in/caseyoneil10/" target="_blank" rel="noopener noreferrer" >
 							<FaLinkedinIn/>
 							</a>
 						</div>
-						<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300'>
-							<a href="https://github.com/caseyoneil10" >
+						<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-125 ease-in duration-300'>
+							<a href="https://github.com/caseyoneil10" target="_blank" rel="noopener noreferrer" >
 							<FaGithub/>
 							</a>
 						</div>
-						<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300'>
-							<a href="https://docs.google.com/document/d/1wjMyvwiGhIaUhHXTxRWyameZikA-HiWLRDHDEVUQM7Q/edit?usp=sharing" >
+						<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-125 ease-in duration-300'>
+							<a href='/assets/resume2.pdf' target="_blank" rel="noopener noreferrer" >
 							<BsFillPersonLinesFill/>
 							</a>
 					</div>
