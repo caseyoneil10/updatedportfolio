@@ -13,13 +13,13 @@ const golf = () => {
 					<Image className='absolute z-1' layout='fill' objectFit='cover' src={golfImg} alt='/'/>
 					<div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
 						<h2 className='py-2'>Golf Score Tracker</h2>
-						<h3>React / Redux / Etc.</h3>
+						<h3>React / Redux / Django / Python </h3>
 					</div>
 				</div>
 					<div className='max-w-[1240px] mx-autp p-2 grid md:grid-cols-5 gap-8 pt-8'>
 						<div className='col-span-4'>
 							<h2>Gole Score Tracker</h2>
-							<p>   This app was built using a front-end of React JS with a fully implemented back-end of Django and PostreSQL.
+							<p>   This app was built using a front-end of React with a fully implemented back-end of Django and PostreSQL.
 
 						Users are able to track their current round of golf on whichever course the choose.
 
